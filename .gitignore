@@ -1,3 +1,4 @@
+node_modules/
 # Compiled class file
 *.class
 
@@ -11,6 +12,8 @@
 .mtj.tmp/
 
 # Package Files #
+**.java
+**.xml
 *.jar
 *.war
 *.nar
